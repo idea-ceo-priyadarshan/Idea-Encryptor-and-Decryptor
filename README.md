@@ -44,7 +44,7 @@ HOW TO USE IT?
 ---------
 DOWNLOADS
 ---------
-1. Idea Encryptor and Decryptor v1.0: <a href="https://github.com/idea-ceo-priyadarshan/Idea-Encryptor-and-Decryptor/blob/main/Idea%20Encryptor%20and%20Decryptor%20v1.0.py"><button>Download</button></a>
+1. Idea Encryptor and Decryptor v1.0: <a href="https://bit.ly/3mdxUoL"><button>Download</button></a>
 2. This repository: <a href="https://github.com/idea-ceo-priyadarshan/Idea-Encryptor-and-Decryptor/blob/main/Idea%20Encryptor%20and%20Decryptor%20v1.0.py](https://codeload.github.com/idea-ceo-priyadarshan/Idea-Encryptor-and-Decryptor/zip/refs/heads/main"><button>Download</button></a>
 3. Python 3.11.2: <a href="https://github.com/idea-ceo-priyadarshan/Idea-Encryptor-and-Decryptor/blob/main/Idea%20Encryptor%20and%20Decryptor%20v1.0.py](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe"><button>Download</button></a>
 
