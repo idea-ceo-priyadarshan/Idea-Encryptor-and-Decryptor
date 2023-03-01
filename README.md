@@ -41,6 +41,12 @@ HOW TO USE IT?
 5. Run it.
 6. Now you can follow the steps displayed on the screen of the program.
 
+---------
+DOWNLOADS
+---------
+1. Download Idea Encryptor and Decryptor v1.0: https://github.com/idea-ceo-priyadarshan/Idea-Encryptor-and-Decryptor/blob/main/Idea%20Encryptor%20and%20Decryptor%20v1.0.py
+2. Python 3.11.2: https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+
 -------
 CONTACT
 -------
