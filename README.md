@@ -33,11 +33,15 @@ HOW TO USE IT?
 5. Now you can follow the steps displayed on the screen of the program.
 
 [For Non-Pyhton Users]
-1. Download and Copy the file to your Desktop Directory.
-2. Install the Idea Encryptor and Decryptor for Non-Python Users v1.0.exe.
-3. A Python file named 'encrypt_decrypt.py' will be created.
-4. Run it.
-5. Now you can follow the steps displayed on the screen of the program.
+1. Download and Install Python.
+  For Windows CMD Users:
+    1. curl -O https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+    2. python-3.11.2-amd64.exe
+3. Download and Copy the file to your Desktop Directory.
+4. Install the Idea Encryptor and Decryptor for Non-Python Users v1.0.exe.
+5. A Python file named 'encrypt_decrypt.py' will be created.
+6. Run it.
+7. Now you can follow the steps displayed on the screen of the program.
 
 -------
 CONTACT
